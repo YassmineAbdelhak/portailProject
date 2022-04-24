@@ -1,0 +1,9 @@
+
+@import "~bootstrap/dist/css/bootstrap";
+// General theme contents
+@import "partials/variables";
+@import "partials/general";
+
+
+// Theme Element
+@import "partials/theme-elements/authentication";
