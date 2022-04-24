@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "611c3ab3e91f003868edc201"
+  },
+  "position": "Accept",
+  "type": "Sickness",
+  "date_deb": "2021-08-13",
+  "date_fin": "2021-08-19",
+  "reason": "jknl",
+  "employee": {
+    "$oid": "611c242658478639fce19b7e"
+  },
+  "dateCreated": {
+    "$date": "2021-08-17T22:39:47.748Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611c3bc9e91f003868edc208"
+  },
+  "position": "Accept",
+  "type": "Sickness",
+  "date_deb": "2021-08-18",
+  "date_fin": "2021-08-19",
+  "reason": "qq",
+  "employee": {
+    "$oid": "611c242658478639fce19b7e"
+  },
+  "dateCreated": {
+    "$date": "2021-08-17T22:44:25.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611d770b9117461028e9aeb2"
+  },
+  "position": "Refuse",
+  "type": "Annual",
+  "date_deb": "2021-08-19",
+  "date_fin": "2021-08-25",
+  "reason": "annual repose period is needed",
+  "dateCreated": {
+    "$date": "2021-08-18T21:09:31.888Z"
+  },
+  "__v": 0,
+  "employee": {
+    "$oid": "611c242658478639fce19b7e"
+  }
+},{
+  "_id": {
+    "$oid": "611d7dcd9117461028e9af05"
+  },
+  "position": "Accept",
+  "type": "Sickness",
+  "date_deb": "2021-08-18",
+  "date_fin": "2021-08-23",
+  "reason": "i'm sick",
+  "employee": {
+    "$oid": "611c48f6e91f003868edc279"
+  },
+  "dateCreated": {
+    "$date": "2021-08-18T21:38:21.266Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611ec2b04561d12e107a2e95"
+  },
+  "position": "Accept",
+  "type": "Wedding",
+  "date_deb": "2021-08-19",
+  "date_fin": "2021-08-28",
+  "reason": "I'm getting Married :D",
+  "employee": {
+    "$oid": "611ec2064561d12e107a2e6e"
+  },
+  "dateCreated": {
+    "$date": "2021-08-19T20:44:32.145Z"
+  },
+  "__v": 0
+}]

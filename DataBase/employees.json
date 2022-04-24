@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "60fdb18899ce6b266c993c36"
+  },
+  "position": "HR",
+  "f_name": "yasmine",
+  "l_name": "abdelhak",
+  "username": "yasmine.abdelhak",
+  "password": "$2b$10$ml46DsKgxHJafI1719/wAOBMt6/9r60kloOTyYVrYZMQ07r9GOvKO",
+  "email": "yasmineabdelhak@gmail.com",
+  "departement": {
+    "$oid": "60fdafad711b8721ecc95926"
+  },
+  "role": "Responsable Ressources Humaine",
+  "gender": "female",
+  "createdAt": {
+    "$date": "2021-07-25T18:46:33.754Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-15T22:46:03.195Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611430c56722c03038d78d1d"
+  },
+  "position": "Employee",
+  "f_name": "abcd",
+  "l_name": "abcd",
+  "username": "abcd.abcd",
+  "password": "$2b$10$uXr0Mma/nX2UIm3NKlawIug2KVyjGwHjA69L6fZq1tXWnjYQ0kWI.",
+  "email": "abcd@gmail.com",
+  "departement": {
+    "$oid": "60fdafad711b8721ecc95926"
+  },
+  "role": "abcd",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2021-08-11T20:19:18.033Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-15T23:01:32.726Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61199b69276f641950e01ec3"
+  },
+  "position": "Employee",
+  "f_name": "Super",
+  "l_name": "Admin",
+  "username": "super.admin",
+  "password": "$2b$10$K9ALxhNq3Fzz04dkfST63ehoFRGDWATHvOJ6l2TAZ3muc7aa2CQpe",
+  "email": "superadmin@gmail.com",
+  "departement": {
+    "$oid": "60fdafad711b8721ecc95926"
+  },
+  "role": "CEO",
+  "gender": "female",
+  "createdAt": {
+    "$date": "2021-08-15T22:55:37.904Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-15T22:55:37.904Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611c242658478639fce19b7e"
+  },
+  "position": "Employee",
+  "f_name": "eya",
+  "l_name": "abdelhak",
+  "username": "eya.abdelhak",
+  "password": "$2b$10$gm2WlRK95Y6DTKOzZp9ZUOp.4yndcaSPyd5mMrYxdGvC/abHPuMS.",
+  "email": "eab@gmail.com",
+  "departement": {
+    "$oid": "611024c977ec5836cca0d089"
+  },
+  "role": "manager",
+  "gender": "female",
+  "createdAt": {
+    "$date": "2021-08-17T21:03:34.529Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-17T21:03:34.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611c48f6e91f003868edc279"
+  },
+  "position": "Employee",
+  "f_name": "roua",
+  "l_name": "sidia",
+  "username": "roua.sidia",
+  "password": "$2b$10$VNB6Z1VMgS1N.MVjcjHSPejqafN1Z7c/G4O7YwzHN/DUn8NaBnO22",
+  "email": "roua@gmail.com",
+  "departement": {
+    "$oid": "61142916cdaff42b108adb3e"
+  },
+  "role": "elect ing",
+  "gender": "female",
+  "createdAt": {
+    "$date": "2021-08-17T23:40:39.637Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-17T23:40:39.637Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611ec2064561d12e107a2e6e"
+  },
+  "position": "Employee",
+  "f_name": "new",
+  "l_name": "employee",
+  "username": "new.employee",
+  "password": "$2b$10$XWjAQ/QGBJbYKNOIu1brJuyxIR.cO3cUu9W/s30fy2JjDtm2lj88i",
+  "email": "newemployee@gmail.com",
+  "departement": {
+    "$oid": "611024c977ec5836cca0d089"
+  },
+  "role": "MEAN Developer",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2021-08-19T20:41:44.705Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-19T20:42:10.819Z"
+  },
+  "__v": 0
+}]
