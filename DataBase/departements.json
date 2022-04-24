@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "60fdafad711b8721ecc95926"
+  },
+  "departement_name": "Human Resources",
+  "__v": 0,
+  "boss": {
+    "$oid": "60fdb18899ce6b266c993c36"
+  }
+},{
+  "_id": {
+    "$oid": "611024c977ec5836cca0d089"
+  },
+  "departement_name": "technology",
+  "boss": {
+    "$oid": "611d7e849117461028e9af1d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61142916cdaff42b108adb3e"
+  },
+  "departement_name": "electronique",
+  "boss": {
+    "$oid": "611430c56722c03038d78d1d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611c243858478639fce19b87"
+  },
+  "departement_name": "management",
+  "boss": {
+    "$oid": "611c242658478639fce19b7e"
+  },
+  "__v": 0
+}]
